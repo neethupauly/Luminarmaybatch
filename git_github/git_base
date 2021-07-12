@@ -7,3 +7,6 @@ git add-moving untracked files to staging area
 git commit-staging area>local repository
 
 git log - all history
+
+
+hi
