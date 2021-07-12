@@ -1,0 +1,9 @@
+git init- for initializing git repository
+
+git status-for listing all untracked files
+
+git add-moving untracked files to staging area
+
+git commit-staging area>local repository
+
+git log - all history
